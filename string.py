@@ -10,6 +10,6 @@ class Uppercase:
         print(self.str.upper())
 
 
-s= Uppercase()
-print(s.get_string())
-print(s.print_string())
+p= Uppercase()
+print(p.get_string())
+print(p.print_string())
